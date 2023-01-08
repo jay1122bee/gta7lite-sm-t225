@@ -1,1 +1,0 @@
-# gta7lite-sm-t225
