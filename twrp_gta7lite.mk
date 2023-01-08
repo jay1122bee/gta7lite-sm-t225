@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/samsung/gta7lite/device.mk)
 
 PRODUCT_DEVICE := gta7lite
-PRODUCT_NAME := omni_gta7lite
+PRODUCT_NAME := twrp_gta7lite
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-T225
 PRODUCT_MANUFACTURER := samsung
