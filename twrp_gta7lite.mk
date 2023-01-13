@@ -17,10 +17,10 @@
 # Release name
 PRODUCT_RELEASE_NAME := gta7lite
 
-# Inherit from common AOSP config
+# Inherit from common twrp config
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)
 
-# Inherit some common TWRP stuff.
+# Inherit some common twrp stuff.
 # For PitchBlack use vendor/pb/config/common.mk
 $(call inherit-product, vendor/twrp/config/common.mk)
 
